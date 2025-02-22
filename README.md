@@ -12,7 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on 3D renderer and my Unreal 5 Online Shooter Game.
-- 🌱 I’m currently learning Computer Graphics.
 - 📫 How to reach me: zehao.lu.ca@outlook.com
 - 😄 Pronouns: He/His/Him
